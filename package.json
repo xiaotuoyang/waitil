@@ -1,0 +1,17 @@
+{
+  "name": "waitil",
+  "version": "1.1.7",
+  "description": "A simple wait until",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello\" && exit 1"
+  },
+  "keywords": [
+    "wait",
+    "until",
+    "wait until"
+  ],
+  "author": "xiaotuoyang",
+  "license": "ISC",
+  "devDependencies": {}
+}
